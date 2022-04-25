@@ -8,7 +8,7 @@
 
 import React from 'react';
 import {
-  SafeAreaView,
+  View,
   StatusBar,
   useColorScheme,
 } from 'react-native';
@@ -29,10 +29,10 @@ const App = () => {
   };
 
   return (
-    <SafeAreaView style={backgroundStyle}>
+    <View style={backgroundStyle}>
       <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} />
         <Router />
-    </SafeAreaView>
+    </View>
   );
 };
 
