@@ -1,0 +1,25 @@
+type Product @model @auth(rules: [{ allow: public }]) {
+  id: ID!
+  title: String!
+  description: String
+  image: String!
+  images: [String!]!
+  options: [String!]
+  avgRating: Float
+  ratings: Int
+  price: Float!
+  oldPrice: Float
+}
+
+type CartProduct @model @auth(rules: [{ allow: public }]) {
+  id: ID!
+  userSub: String!
+  quantity: Int!
+  option: String
+  productID: ID!
+  product: Product @hasOne(fields: ["productID"])
+}
+
+
+
+
