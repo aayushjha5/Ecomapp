@@ -7,9 +7,9 @@
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Product Catalogue + Product page</td>
+     <td>Shopping Cart + Address Page</td>
+     <td>Authentication Page</td>
   </tr>
   <tr>
     <td><img src="https://github.com/aayushjha5/Ecomapp/blob/master/catalogue.gif" width=270 height=480></td>
