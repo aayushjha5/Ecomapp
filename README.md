@@ -4,14 +4,15 @@
 
 
 ## iOS App Preview
-![iOS Preview Gif 1](http://imgur.com/8OV8MVj.gif "iOS Preview Gif 1")
-![iOS Preview Gif 2](http://imgur.com/9mrmir9.gif "iOS Preview Gif 2")
-![iOS Preview Gif 3](http://imgur.com/KuySKlC.gif "iOS Preview Gif 3")
+![iProduct Catalogue + Product page](https://github.com/aayushjha5/Ecomapp/blob/master/catalogue.gif "Product Catalogue + Product page")
+![Shopping Cart + Address Page](https://github.com/aayushjha5/Ecomapp/blob/master/cart.gif "Shopping Cart + Address Page")
+![Authentication Page](https://github.com/aayushjha5/Ecomapp/blob/master/auth.gif "Authentication Page")
 
 
 
 ## Features/Components
-- Uses React Native 0.20
+- Uses React Native 0.20 for UI
+- Backend using AWS Amplify
 - Login/SignUp using AWS Amplify
 - Product Catalogue page
 - Product Page
