@@ -16,7 +16,6 @@ export default {
     'Black',
     'Space Grey',
     'Red',
-    'Pink'
   ],
   avgRating: 4.8,
   ratings: 2989,

@@ -39,7 +39,7 @@ const ImageCarousel = ({images}: {images: string[]}) => {
         onViewableItemsChanged={onFlatlistUpdate}
       />
 
-      <View style={styles.dotContainer}>
+      <View style={styles.dots}>
         {images.map((image, index) => (
           <View
             style={[
@@ -62,7 +62,7 @@ const styles = StyleSheet.create({
     height: 250,
     resizeMode: 'contain',
   },
-  dotContainer: {
+  dots: {
     flexDirection: 'row',
     justifyContent: 'center',
   },
