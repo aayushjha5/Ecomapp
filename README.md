@@ -4,11 +4,20 @@
 
 
 ## iOS App Preview
-![iProduct Catalogue + Product page](https://github.com/aayushjha5/Ecomapp/blob/master/catalogue.gif "Product Catalogue + Product page")
-![Shopping Cart + Address Page](https://github.com/aayushjha5/Ecomapp/blob/master/cart.gif "Shopping Cart + Address Page")
-![Authentication Page](https://github.com/aayushjha5/Ecomapp/blob/master/auth.gif "Authentication Page")
 
-
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/aayushjha5/Ecomapp/blob/master/catalogue.gif" width=270 height=480></td>
+    <td><img src="https://github.com/aayushjha5/Ecomapp/blob/master/cart.gif" width=270 height=480></td>
+    <td><img src="https://github.com/aayushjha5/Ecomapp/blob/master/auth.gif" width=270 height=480></td>
+  </tr>
+ </table>
+ 
 
 ## Features/Components
 - Uses React Native 0.20 for UI
