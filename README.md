@@ -20,9 +20,9 @@
  
 
 ## Features/Components
-- Uses React Native 0.20 for UI
+- Uses React Native 0.68 for UI
 - Backend using AWS Amplify
-- Login/SignUp using AWS Amplify
+- Authentication using AWS Amplify
 - Product Catalogue page
 - Product Page
 - Shopping Cart Page
